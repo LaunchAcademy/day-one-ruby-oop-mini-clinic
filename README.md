@@ -10,7 +10,7 @@
 - update the `like` method to set a song object's instance variable called `like_status` to `true`. this instance variable should be `false` by default
 - Create a method `like_all_songs` on the Album class
 
-### Key Takeways 
+### Key Takeaways 
 - distinction: object vs class 
 - we have to call methods on objects, which are instances of a class. In order to have this ability, we have to define the method on the class first. 
 - we should *separate our concerns* by defining classes in their own files, and running the core program from another file 
